@@ -7,12 +7,12 @@
 </p>
 
 <p align="left">
-   Linguagens: Aprendendo <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> e suas bibliotecas, em especial no momento a 
+  <strong>Linguagens</strong>: Aprendendo <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> e suas bibliotecas, em especial no momento a 
     <img align="center" alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"> para o desenvolvimento web
 </p>
 
 <p align="left">
-   Ferramentas: atualmente uso o sistema operacional
+  <strong>Ferramentas</strong>: atualmente uso o sistema operacional
   <a href="#" title="linux"> 	
   <img scr="<img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux"></a> e como principal editor de codigo o <img align="center" alt="Vscode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-   Aqui vai uma mensagem para entrar em contato comigo:
+    <strong>Metodos de contato:</strong>
 </p>
 
 <p align="left">
