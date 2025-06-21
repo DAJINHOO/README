@@ -1,6 +1,6 @@
 # README
 
-<img src=" " min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/DAJINHOO/ScroolCam/issues/1#issue-3165112696" min-width="400px" max-width="400px" width="400px" align="center">
 
 <p align="left"> 
   Oi eu sou Dajinhoo, estudante de Licenciatura da Computação pela <strong>UFRB</strong>.<br>
@@ -24,8 +24,8 @@
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="Dagilvan.m.s@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/dagilvan-maia-santos-664205239/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="#" title="WhatsApp">
